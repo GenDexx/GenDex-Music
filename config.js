@@ -3,8 +3,8 @@
 module.exports = {
   TOKEN: "",
   language: "en",
-  ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "",
+  ownerID: ["557401286472105986"], 
+  mongodbUri : "mongodb+srv://GenDex:nKsxuHlieeUmZouo@discordbot.hwkt4pz.mongodb.net/?retryWrites=true&w=majority",
   spotifyClientId : "",
   spotifyClientSecret : "",
   setupFilePath: './commands/setup.json',
@@ -17,11 +17,18 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "GlaceYT",
-      password: "glaceyt",
-      host: "193.226.78.187",
-      port:  3543,
+      name: "GenDex",
+      password: "gendex0145",
+      host: "78.46.65.243",
+      port:  3435,
       secure: false
     }
-  ]
-}
+  ],
+  lavalink: {
+      name: "GenDex",
+      password: "gendex0145",
+      host: "78.46.65.243",
+      port:  3435,
+      secure: false
+    }
+};
