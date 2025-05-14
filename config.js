@@ -19,16 +19,16 @@ module.exports = {
      {
       name: "GenDex",
       password: "gendex0145",
-      host: "78.46.65.243",
-      port:  3435,
+      host: "5.39.63.207",
+      port:  7383,
       secure: false
     }
   ],
   lavalink: {
       name: "GenDex",
       password: "gendex0145",
-      host: "78.46.65.243",
-      port:  3435,
+      host: "5.39.63.207",
+      port:  7383,
       secure: false
     }
 };
