@@ -20,7 +20,7 @@ module.exports = {
       name: "GenDex",
       password: "gendex0145",
       host: "5.39.63.207",
-      port:  4238,
+      port:  8183,
       secure: false
     }
   ],
@@ -28,7 +28,7 @@ module.exports = {
       name: "GenDex",
       password: "gendex0145",
       host: "5.39.63.207",
-      port:  7383,
+      port:  8183,
       secure: false
     }
 };
